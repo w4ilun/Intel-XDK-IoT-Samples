@@ -1,0 +1,37 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.1",
+    "creationData": {
+      "type": "App Creator",
+      "createDefaultBuildConfigs": false,
+      "projectTypeName": "com.intel.xdk.projecttype.iotapp",
+      "projectGuid": "cfb1a1e0-abff-4c12-9754-5c328c2c1f8b",
+      "lastModifiedDate": 1408564210298,
+      "creationDate": 1408564210250
+    },
+    "sourceDirectory": "",
+    "cordovaPluginsDirectory": "plugins",
+    "startFile": "main.js",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
+    "cordovaPlugins": [],
+    "serviceMethods": [],
+    "buildConfigurations": {}
+  }
+}
