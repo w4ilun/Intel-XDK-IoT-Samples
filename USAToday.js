@@ -2,9 +2,9 @@
 var request = require("request");
 var moment = require("moment");
 
-var url = "http://api.usatoday.com/open/salaries/nfl"
+var url = "http://api.usatoday.com/open/salaries/mlb"
 var api_key = "XXXXXX"
-var params = {"players":"marshawn-lynch", "encoding":"json", "api_key":api_key };
+var params = {"players":"derek-jeter", "encoding":"json", "api_key":api_key };
 
 request({
     url: url,
